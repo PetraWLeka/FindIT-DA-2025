@@ -14,3 +14,4 @@ I applied three different models: LightGBM, XGBoost, and CatBoost. I fine-tuned 
 - Explore other ensemble methods such as bagging, meta-learning, and boosting.
 
 - Longer parameter fine-tuning process.
+![Uploading image.png…]()
