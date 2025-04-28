@@ -10,10 +10,9 @@ I applied three different models: LightGBM, XGBoost, and CatBoost. I fine-tuned 
 
 ## Future improvements:
 - More comprehensive data processing.
-
 - Explore other ensemble methods such as bagging, meta-learning, and boosting.
-
 - Longer parameter fine-tuning process.
+- Don't be late to submit. Better to work alone than with someone who doesn't understand anything and makes everything slow.
 
 ![image](https://github.com/user-attachments/assets/1488bb60-bb07-464e-8d01-d38e61364130)
 
