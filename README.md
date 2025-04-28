@@ -1,4 +1,6 @@
 # My competition solution for Data Analytics Competition - Find It 2025
+https://www.kaggle.com/competitions/data-analytics-competition-find-it-2025/overview
+
 Public Score: 0.89509
 Private Score: 0.89154
 
